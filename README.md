@@ -8,7 +8,7 @@
 
 ## Testing Async code (задача со звёздочкой)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/x8001636hfvdd3ma?svg=true)](https://ci.appveyor.com/project/BudTon/promises-async-testing-mock)
 
 **Важно**: данная задача не является обязательной 
 
